@@ -1,4 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# NAME : VARADARAM SK
+# REG.NO: 212223040232
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
