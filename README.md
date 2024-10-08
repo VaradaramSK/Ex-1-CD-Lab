@@ -61,12 +61,13 @@ int main() {
     for (i = 0; i < x; i++) {
         free(add[i]);
     }
+    printf("----Code executed successfully---");
     return 0;
 }
 ```
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/93137da5-1df2-4635-b21d-b47b09a5deaf)
+![image](https://github.com/user-attachments/assets/a096c0db-131c-4e4a-b3b1-c23663c3c587)
 
 
 # RESULT
